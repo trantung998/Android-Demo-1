@@ -1,0 +1,1 @@
+# Android-Demo-1  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:trantung998/Android-Demo-1.gitgit push -u origin master
